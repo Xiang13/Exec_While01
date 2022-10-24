@@ -27,7 +27,7 @@ namespace Exec_While01
 
 			int number = 300;
 			num = 1;
-			while (num < number)
+			while (num <= number)
 			{
 				if(number % num == 0)
 				{
